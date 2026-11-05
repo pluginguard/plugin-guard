@@ -3,5 +3,25 @@
     "role": "owner",
     "badge": "Plugin Guard Owner",
     "emoji_id": "5402364586810680584"
+  },
+    "8881642708": {
+    "role": "developer",
+    "badge": "Plugin Guard Team"
+    "emoji_id": "5388658581664993142"
+  },
+    "5677713420": {
+    "role": "developer",
+    "badge": "Plugin Guard Team"
+    "emoji_id": "5317000767477923070"
+  },
+    "5586966151": {
+    "role": "supporter",
+    "badge": "Лучший Пупсик"
+    "emoji_id": "5381841785666413682"
+  },
+    "5593400004": {
+    "role": "supporter",
+    "badge": "Фруктоза"
+    "emoji_id": "5429232055378552393"
   }
 }
